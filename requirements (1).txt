@@ -1,0 +1,8 @@
+gradio
+chromadb
+sentence-transformers
+openai
+pypdf
+python-docx
+pandas
+openpyxl

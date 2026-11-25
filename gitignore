@@ -1,0 +1,6 @@
+chroma_db/
+knowledge_base/
+__pycache__/
+*.pyc
+.env
+.ipynb_checkpoints/
